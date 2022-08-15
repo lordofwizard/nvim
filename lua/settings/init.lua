@@ -21,3 +21,5 @@ set.number = true
 set.cursorline = true
 set.hidden = true
 vim.cmd("set mouse=a")
+vim.g.mapleader = ' '
+
